@@ -1,0 +1,6 @@
+function fun()
+{
+	alert("Hello");
+	
+	
+}
